@@ -27,12 +27,12 @@ Userbase size: 3000
 
 
 ## Authors
-
+- [Abhinav Gupta](https://github.com/abhinavgupta1431)
 - [Pancham Agarwal](https://www.github.com/pancham1603)
 - [Akarsh Srivastava](https://www.github.com/akarsh911)
 
 
 ## Support
 
-For support, email pancham1603@gmail.com or akarshagri121@gmail.com 
+For support,email abhinavgupta1431@gmail.com or pancham1603@gmail.com  
 
